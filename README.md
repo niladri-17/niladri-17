@@ -1,5 +1,5 @@
 # Niladri Basak&nbsp;<img src="https://github.com/a8hay/a8hay/blob/master/Mario_Hello_Big.gif" width="30px" height="30px">
-[![Linkedin Badge](https://img.shields.io/badge/-niladri_nb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/niladri-nb/)](https://www.linkedin.com/in/niladri-nb/)
+[![Linkedin Badge](https://img.shields.io/badge/-niladri-nb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/niladri-nb/)](https://www.linkedin.com/in/niladri-nb/)
 [![Gmail Badge](https://img.shields.io/badge/-niladri.bn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:niladri.bn@gmail.com)](mailto:niladri.bn@gmail.com)
 ---
 ### <img src="https://github.com/a8hay/a8hay/blob/master/Hi.gif" width="29px" height="29px"> Hello world!&nbsp;<img src="https://github.com/a8hay/a8hay/blob/master/Earth.gif" width="24px" height="24px">  
