@@ -4,10 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-niladri.bn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:niladri.bn@gmail.com)](mailto:niladri.bn@gmail.com)
 
 ---
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### <img src="https://github.com/niladri-17/niladri-17/blob/main/Hi.gif" width="29px" height="29px"> Hello world!&nbsp;<img src="https://github.com/niladri-17/niladri-17/blob/main/Earth.gif" width="24px" height="24px">  
 :heart: Programming | :black_heart: Web Development | :blue_heart: Gaming
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
   
 I am a Third Year Computer Science Engineering Student at <a href="https://www.technoindiauniversity.ac.in/"> <b>Techno India University</b></a>. I love Web Development and trying to find more about Full Stack Web Development. 
